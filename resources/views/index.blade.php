@@ -24,7 +24,7 @@
             </div>
             <div class="slide slide2 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="{{ asset('/assets/images/slideshow-banners/two.webp'0 }}" src="{{ asset('/assets/images/slideshow-banners/two.webp') }}" alt="Happy Customers" title="Happy Customers" />
+                    <img class="blur-up lazyload bg-img" data-src="{{ asset('/assets/images/slideshow-banners/two.webp') }}" src="{{ asset('/assets/images/slideshow-banners/two.webp') }}" alt="Happy Customers" title="Happy Customers" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 center">
                             <div class="container">
