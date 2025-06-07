@@ -7,13 +7,13 @@
         <div class="home-slideshow">
             <div class="slide slide1 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/banner_1900x900.jpg" src="assets/images/slideshow-banners/banner_1900x900.jpg" alt="Welcome to Diva New Fashion style" title="Welcome to Diva New Fashion style" />
+                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/one.webp" src="assets/images/slideshow-banners/one.webp" alt="Welcome to Agro Tex New Fashion style" title="Welcome to Agro Tex New Fashion style" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 text-shadow center">
                             <div class="container">
                                 <div class="wrap-caption left">
                                     <p class="mega-small-title">Welcome to</p>
-                                    <h2 class="h1 mega-title slideshow__title">Diva New Fashion style</h2>
+                                    <h2 class="h1 mega-title slideshow__title">Agro Tex New Fashion style</h2>
                                     <span class="mega-subtitle slideshow__subtitle">Made with love and passion</span>
                                     <a href="collection-3columns.html" class="btn btn--large">Shop now</a>
                                 </div>
@@ -24,7 +24,7 @@
             </div>
             <div class="slide slide2 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/banner_1900x900.jpg" src="assets/images/slideshow-banners/banner_1900x900.jpg" alt="Happy Customers" title="Happy Customers" />
+                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/two.webp" src="assets/images/slideshow-banners/two.webp" alt="Happy Customers" title="Happy Customers" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 center">
                             <div class="container">
@@ -40,7 +40,7 @@
             </div>
             <div class="slide slide3 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/banner_1900x900.jpg" src="assets/images/slideshow-banners/banner_1900x900.jpg" alt="Unique Styles" title="Unique Styles" />
+                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/three.webp" src="assets/images/slideshow-banners/three.webp" alt="Unique Styles" title="Unique Styles" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 text-shadow center">
                             <div class="container">
@@ -1160,8 +1160,8 @@
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-12">
                     <div class="section-header text-center">
-                        <h2 class="h2">Diva's Picks</h2>
-                        <p>Shop Diva's favourite pieces from the Spring Summer '18 collections</p>
+                        <h2 class="h2">Agro Tex's Picks</h2>
+                        <p>Shop Agro Tex's favourite pieces from the Spring Summer '18 collections</p>
                     </div>
                 </div>
             </div>
