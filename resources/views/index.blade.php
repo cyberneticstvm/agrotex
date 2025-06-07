@@ -7,7 +7,7 @@
         <div class="home-slideshow">
             <div class="slide slide1 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/one.webp" src="assets/images/slideshow-banners/one.webp" alt="Welcome to Agro Tex New Fashion style" title="Welcome to Agro Tex New Fashion style" />
+                    <img class="blur-up lazyload bg-img" data-src="{{ asset('/assets/images/slideshow-banners/one.webp') }}" src="{{ asset('/assets/images/slideshow-banners/one.webp') }}" alt="Welcome to Agro Tex New Fashion style" title="Welcome to Agro Tex New Fashion style" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 text-shadow center">
                             <div class="container">
@@ -24,7 +24,7 @@
             </div>
             <div class="slide slide2 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/two.webp" src="assets/images/slideshow-banners/two.webp" alt="Happy Customers" title="Happy Customers" />
+                    <img class="blur-up lazyload bg-img" data-src="{{ asset('/assets/images/slideshow-banners/two.webp'0 }}" src="{{ asset('/assets/images/slideshow-banners/two.webp') }}" alt="Happy Customers" title="Happy Customers" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 center">
                             <div class="container">
@@ -40,7 +40,7 @@
             </div>
             <div class="slide slide3 d-block">
                 <div class="slideimg blur-up lazyload bg-size">
-                    <img class="blur-up lazyload bg-img" data-src="assets/images/slideshow-banners/three.webp" src="assets/images/slideshow-banners/three.webp" alt="Unique Styles" title="Unique Styles" />
+                    <img class="blur-up lazyload bg-img" data-src="{{ asset('/assets/images/slideshow-banners/three.webp') }}" src="{{ asset('/assets/images/slideshow-banners/three.webp') }}" alt="Unique Styles" title="Unique Styles" />
                     <div class="slideshow__text-wrap slideshow__overlay classic bottom">
                         <div class="slideshow__text-content mt-0 text-shadow center">
                             <div class="container">
