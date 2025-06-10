@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{ asset('/assets/css/responsive.css') }}" />
 </head>
 
-<body class="template-index diva template-index-diva">
+<body class="page-template diva">
     <!-- Page Loader -->
     <div id="pre-loader"><img src="assets/images/loader.gif" alt="Loading..." /></div>
     <!-- End Page Loader -->
@@ -182,10 +182,8 @@
                                 <ul>
                                     <li><a href="#">FAQs</a></li>
                                     <li><a href="#">My Orders</a></li>
-                                    <li><a href="#">Terms And Conditions</a></li>
-                                    <li><a href="#">Shipping Policy</a></li>
-                                    <li><a href="#">Returns &amp; Exchange</a></li>
-                                    <li><a href="#">Ordering &amp; Payment</a></li>
+                                    <li><a href="{{ route('terms') }}">Terms And Conditions</a></li>
+                                    <li><a href="{{ route('privacy') }}">Privacy Policy</a></li>
                                 </ul>
                             </div>
                             <div class="col-12 col-sm-12 col-md-3 col-lg-3 contact-box">
