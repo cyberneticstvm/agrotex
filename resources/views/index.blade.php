@@ -84,10 +84,10 @@
                                             <!-- product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product Label -->
                                                 <div class="product-labels rectangular"><span class="lbl on-sale">-16%</span> <span class="lbl pr-label1">new</span></div>
@@ -157,10 +157,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product Label -->
                                                 <div class="product-labels rectangular"><span class="lbl on-sale">Exclusive</span></div>
@@ -222,10 +222,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product Label -->
                                                 <div class="product-labels rectangular"><span class="lbl pr-label2">Hot</span></div>
@@ -291,10 +291,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product Label -->
                                                 <div class="product-labels"><span class="lbl on-sale">Sale</span></div>
@@ -356,10 +356,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product Label -->
                                                 <div class="product-labels"><span class="lbl on-sale">Sale</span></div>
@@ -430,10 +430,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product Label -->
                                                 <div class="product-labels rectangular"><span class="lbl on-sale">-16%</span> <span class="lbl pr-label1">new</span></div>
@@ -498,10 +498,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -556,10 +556,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                                 <!-- Product label -->
                                                 <div class="sold-out"><span class="lbl">Sold out</span></div>
@@ -620,10 +620,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -678,10 +678,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -745,10 +745,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -815,10 +815,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -877,10 +877,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -942,10 +942,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -1008,10 +1008,10 @@
                                             <!-- Product Image -->
                                             <a href="product-layout1.html">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Image -->
                                                 <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                                 <!-- End Hover Image -->
                                             </a>
                                             <!-- End Product Image -->
@@ -1082,7 +1082,7 @@
             <div class="row custom-content">
                 <div class="col-12 col-sm-12 col-md-6 d-flex align-items-center justify-content-center custom-item">
                     <div class="custom-item-inner custom-item-inner-image">
-                        <img class="custom-image blur-up ls-is-cached lazyloaded" data-src="assets/images/collection/home1-collection1_700x785.jpg" src="assets/images/collection/home1-collection1_700x785.jpg" alt="Cool T-shirts Closet" title="Cool T-shirts Closet" />
+                        <img class="custom-image blur-up ls-is-cached lazyloaded" data-src="{{ asset('/assets/images/product-images/p2.webp') }}" src="{{ asset('/assets/images/product-images/p2.webp') }}" alt="Cool T-shirts Closet" title="Cool T-shirts Closet" />
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 d-flex align-items-center justify-content-center custom-item">
@@ -1101,58 +1101,13 @@
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 d-flex align-items-center justify-content-center custom-item">
                     <div class="custom-item-inner custom-item-inner-image">
-                        <img class="custom-image blur-up ls-is-cached lazyloaded" data-src="assets/images/collection/home1-collection1_700x785.jpg" src="assets/images/collection/home1-collection1_700x785.jpg" alt="All Fresh Picks" title="All Fresh Picks" />
+                        <img class="custom-image blur-up ls-is-cached lazyloaded" data-src="{{ asset('/assets/images/product-images/p2.webp') }}" src="{{ asset('/assets/images/product-images/p2.webp') }}" alt="All Fresh Picks" title="All Fresh Picks" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- End Custom Content -->
-
-    <!-- Collection Box slider -->
-    <div class="collection-box section">
-        <div class="container-fluid">
-            <div class="collection-grid-4item">
-                <div class="collection-grid-item">
-                    <img data-src="assets/images/collection/collection1_480x480.jpg" src="assets/images/collection/collection1_480x480.jpg" alt="Shoes" class="blur-up lazyload" />
-                    <a href="collection-3columns.html" class="collection-grid-item__title-wrapper">
-                        <div class="title-wrapper">
-                            <h3 class="collection-grid-item__title">Shoes</h3>
-                            <span class="btn btn--secondary border-btn-1">Shop Shoes</span>
-                        </div>
-                    </a>
-                </div>
-                <div class="collection-grid-item">
-                    <img data-src="assets/images/collection/collection1_480x480.jpg" src="assets/images/collection/collection1_480x480.jpg" alt="sunglasses" class="blur-up lazyload" />
-                    <a href="collection-3columns.html" class="collection-grid-item__title-wrapper">
-                        <div class="title-wrapper">
-                            <h3 class="collection-grid-item__title">Sunglasses</h3>
-                            <span class="btn btn--secondary border-btn-1">View Collection</span>
-                        </div>
-                    </a>
-                </div>
-                <div class="collection-grid-item">
-                    <img data-src="assets/images/collection/collection1_480x480.jpg" src="assets/images/collection/collection1_480x480.jpg" alt="Shop Accessories" class="blur-up lazyload" />
-                    <a href="collection-3columns.html" class="collection-grid-item__title-wrapper">
-                        <div class="title-wrapper">
-                            <h3 class="collection-grid-item__title">Bags & Accessories</h3>
-                            <span class="btn btn--secondary border-btn-1">Shop Accessories</span>
-                        </div>
-                    </a>
-                </div>
-                <div class="collection-grid-item">
-                    <img data-src="assets/images/collection/collection1_480x480.jpg" src="assets/images/collection/collection1_480x480.jpg" alt="Women Dress" class="blur-up lazyload" />
-                    <a href="collection-3columns.html" class="collection-grid-item__title-wrapper">
-                        <div class="title-wrapper">
-                            <h3 class="collection-grid-item__title">Women Dress</h3>
-                            <span class="btn btn--secondary border-btn-1">Shop Dresses</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Collection Box slider -->
 
     <!-- Featured Product -->
     <div class="product-rows section">
@@ -1173,10 +1128,10 @@
                             <!-- Product Image -->
                             <a href="product-layout1.html">
                                 <!-- Image -->
-                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Image -->
                                 <!-- Hover Image -->
-                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Hover Image -->
                                 <!-- Product Label -->
                                 <div class="product-labels rectangular"><span class="lbl on-sale">-16%</span> <span class="lbl pr-label1">new</span></div>
@@ -1246,10 +1201,10 @@
                             <!-- Product Image -->
                             <a href="product-layout1.html">
                                 <!-- Image -->
-                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Image -->
                                 <!-- Hover Image -->
-                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Hover Image -->
                                 <!-- Product Label -->
                                 <div class="product-labels rectangular"><span class="lbl on-sale">Exclusive</span></div>
@@ -1315,10 +1270,10 @@
                             <!-- Product Image -->
                             <a href="product-layout1.html">
                                 <!-- Image -->
-                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Image -->
                                 <!-- Hover Image -->
-                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Hover Image -->
                                 <!-- Product Label -->
                                 <div class="product-labels rectangular"><span class="lbl pr-label2">Hot</span></div>
@@ -1380,10 +1335,10 @@
                             <!-- Product Image -->
                             <a href="product-layout1.html">
                                 <!-- Image -->
-                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Image -->
                                 <!-- Hover Image -->
-                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Hover Image -->
                                 <!-- Product Label -->
                                 <div class="product-labels"><span class="lbl on-sale">Sale</span></div>
@@ -1446,10 +1401,10 @@
                             <!-- Product Image -->
                             <a href="product-layout1.html">
                                 <!-- Image -->
-                                <img class="primary blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="primary blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Image -->
                                 <!-- Hover Image -->
-                                <img class="hover blur-up lazyload" data-src="assets/images/product-images/product-image1_500x700.jpg" src="assets/images/product-images/product-image1_500x700.jpg" alt="image" title="product" />
+                                <img class="hover blur-up lazyload" data-src="{{ asset('/assets/images/product-images/p1.webp') }}" src="{{ asset('/assets/images/product-images/p1.webp') }}" alt="image" title="product" />
                                 <!-- End Hover Image -->
                                 <!-- Product Label -->
                                 <div class="product-labels"><span class="lbl on-sale">Sale</span></div>
@@ -1513,77 +1468,6 @@
         </div>
     </div>
     <!-- End Featured Product -->
-
-    <!-- Latest Blog -->
-    <div class="latest-blog section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="section-header text-center">
-                        <h2 class="h2">Fresh From our blog</h2>
-                        <p>If you like shopify you are going to love this amazing theme.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <!-- Item-->
-                <div class="blog-item col-12 col-sm-6 col-md-4 col-lg-4 text-start">
-                    <a href="blog-single-post.html" class="article__grid-image">
-                        <img class="blur-up lazyload" data-src="assets/images/blog/post-img1_600x300.jpg" src="assets/images/blog/post-img1_600x300.jpg" alt="blog image" />
-                    </a>
-                    <div class="wrap-blog-inner">
-                        <h3 class="h5 article__title"><a href="#">It's all about how you wear</a></h3>
-                        <span class="article__date">
-                            <time datetime="2018-02-12T09:22:00Z">February 12, 2018</time>
-                        </span>
-                        <div class="rte-setting">
-                            <p>Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition d'humour ou ...</p>
-                        </div>
-                        <a href="blog-single-post.html" class="btn btn--small border-btn-2">Read More</a>
-                        <a href="blog-single-post.html" class="btn border-btn-2 btn--small btn--link">1 comment</a>
-                    </div>
-                </div>
-                <!--End Item-->
-
-                <!-- Item-->
-                <div class="blog-item col-12 col-sm-6 col-md-4 col-lg-4 text-start">
-                    <a href="blog-single-post.html" class="article__grid-image">
-                        <img class="blur-up lazyload" data-src="assets/images/blog/post-img1_600x300.jpg" src="assets/images/blog/post-img1_600x300.jpg" alt="blog image" />
-                    </a>
-                    <div class="wrap-blog-inner">
-                        <h3 class="h5 article__title"><a href="#">27 Days of Spring Fashion Recap</a></h3>
-                        <span class="article__date">
-                            <time datetime="2018-02-12T09:22:00Z">February 12, 2018</time>
-                        </span>
-                        <div class="rte-setting">
-                            <p>On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la m...</p>
-                        </div>
-                        <a href="blog-single-post.html" class="btn btn--small border-btn-2">Read More</a>
-                    </div>
-                </div>
-                <!--End Item-->
-
-                <!-- Item-->
-                <div class="blog-item col-12 col-sm-6 col-md-4 col-lg-4 text-start">
-                    <a href="blog-single-post.html" class="article__grid-image">
-                        <img class="blur-up lazyload" data-src="assets/images/blog/post-img1_600x300.jpg" src="assets/images/blog/post-img1_600x300.jpg" alt="blog image" />
-                    </a>
-                    <div class="wrap-blog-inner">
-                        <h3 class="h5 article__title"><a href="#">Great stores. Great choices.</a></h3>
-                        <span class="article__date">
-                            <time datetime="2018-02-12T09:22:00Z">February 12, 2018</time>
-                        </span>
-                        <div class="rte-setting">
-                            <p>On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la m...</p>
-                        </div>
-                        <a href="blog-single-post.html" class="btn btn--small border-btn-2">Read More</a>
-                    </div>
-                </div>
-                <!--End Item-->
-            </div>
-        </div>
-    </div>
-    <!-- End Latest Blog -->
 
     <!-- Store Feature -->
     <div class="store-feature section no-pb-section">
