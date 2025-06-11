@@ -141,10 +141,10 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -275,10 +275,10 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -409,9 +409,9 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -483,9 +483,9 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -798,11 +798,11 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -927,9 +927,9 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -992,10 +992,10 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -1058,8 +1058,8 @@
                                             <!-- End Product Review -->
                                             <!-- Variant -->
                                             <ul class="swatches">
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
                                             </ul>
                                             <!-- End Variant -->
                                         </div>
@@ -1185,10 +1185,10 @@
                             <!-- End Product Review -->
                             <!-- Variant -->
                             <ul class="swatches">
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
                             </ul>
                             <!-- End Variant -->
                         </div>
@@ -1254,10 +1254,10 @@
                             <!-- End Product Review -->
                             <!-- Variant -->
                             <ul class="swatches">
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
                             </ul>
                             <!-- End Variant -->
                         </div>
@@ -1454,10 +1454,10 @@
                             <!-- End Product Review -->
                             <!-- Variant -->
                             <ul class="swatches">
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
-                                <li class="swatch large radius"><img src="assets/images/product-images/variant1_200x200.jpg" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Maroon" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Pink" /></li>
+                                <li class="swatch large radius"><img src="{{ asset('/assets/images/product-images/variant1_200x200.jpg') }}" alt="image" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" /></li>
                             </ul>
                             <!-- End Variant -->
                         </div>
